@@ -1,0 +1,25 @@
+//vamo ver
+
+"Se o seu negócio não estiver na internet, seu negócio irá ficar 
+sem negócios !
+uma section de inicio{
+	uma apresentação do site
+};
+o site tem que ter serviços{
+	desenvolvimento de landingpages, 
+	gerenciamento de tráfego, 
+	criação de banners,
+	desing UI
+}; 
+orçamento{
+	seção de registro,
+	botão de whatsApp
+};
+uma section dos meus projetos{
+	no minimo três projetos
+};
+sobre mim{
+	falar minha experiência na área,
+	oq eu sei fazer, 
+	uma foto minha
+};
